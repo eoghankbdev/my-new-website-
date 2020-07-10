@@ -1,4 +1,4 @@
-This is a Page that I downloaded and customized from github from a web development course, Which will be a temporary porfolio for my projects untill I start to work on a fully personalised portfolio for my work and other projects 
+
 # Link to my site : https://eoghankbdev-portfolio.netlify.app/
 
 # Simplefolio ⚡️ [![GitHub](https://img.shields.io/github/license/cobidev/simplefolio?color=blue)](https://github.com/cobidev/simplefolio/blob/master/LICENSE.md) ![GitHub stars](https://img.shields.io/github/stars/cobidev/simplefolio) ![GitHub forks](https://img.shields.io/github/forks/cobidev/simplefolio)
@@ -338,3 +338,5 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 ## Acknowledgments 🎁
 
 I was motivated to create this project because I wanted to contribute on something useful for the dev community, thanks to [ZTM Community](https://github.com/zero-to-mastery) and [Andrei](https://github.com/aneagoie)
+
+This is a Page that I downloaded and customized from github from a web development course, Which will be a temporary porfolio for my projects untill I start to work on a fully personalised portfolio for my work and other projects 
