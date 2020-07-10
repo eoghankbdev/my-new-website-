@@ -1,3 +1,4 @@
+This is a Page that I downloaded and customized from github from a web development course, Which will be a temporary porfolio for my projects untill I start to work on a fully personalised portfolio for my work and other projects 
 # Link to my site : https://eoghankbdev-portfolio.netlify.app/
 
 # Simplefolio ⚡️ [![GitHub](https://img.shields.io/github/license/cobidev/simplefolio?color=blue)](https://github.com/cobidev/simplefolio/blob/master/LICENSE.md) ![GitHub stars](https://img.shields.io/github/stars/cobidev/simplefolio) ![GitHub forks](https://img.shields.io/github/forks/cobidev/simplefolio)
