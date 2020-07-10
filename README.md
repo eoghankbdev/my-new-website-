@@ -338,5 +338,3 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 ## Acknowledgments 🎁
 
 I was motivated to create this project because I wanted to contribute on something useful for the dev community, thanks to [ZTM Community](https://github.com/zero-to-mastery) and [Andrei](https://github.com/aneagoie)
-
-This is a Page that I downloaded and customized from github from a web development course, Which will be a temporary porfolio for my projects untill I start to work on a fully personalised portfolio for my work and other projects 
